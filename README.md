@@ -53,7 +53,10 @@
 
 | 后台首页 | 签名配置 | 分发页面 |
 |:---:|:---:|:---:|
-| `[拖拽截图1]` | `[拖拽截图2]` | `[拖拽截图3]` |
+<img width="725" height="680" alt="401390768-df3c4e8c-9d93-4607-93ea-0f8d6d8b9a39" src="https://github.com/user-attachments/assets/d9bf8536-2149-412c-8547-1be356bca44b" />
+<img width="773" height="331" alt="401390781-e9c77ad4-de94-4695-809d-b1a812fd9719" src="https://github.com/user-attachments/assets/1b142323-e212-41e8-a0ed-f497ad8c4daa" />
+<img width="776" height="610" alt="401390778-742d454d-4ff9-4ea4-beaf-4d0030d5e084" src="https://github.com/user-attachments/assets/c518c073-dce3-494b-a19e-62cda21807be" />
+
 
 ---
 
