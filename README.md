@@ -5,7 +5,7 @@
 **企业签 · MDM签 · 超级签 | 支持iOS分发 + 安卓下载**
 
 [![Contact](https://img.shields.io/badge/联系-Telegram-blue.svg)](https://t.me/alibabama401)
-
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 **简体中文 · 繁體中文 · English**
 
 </div>
